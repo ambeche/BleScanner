@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BLEScanner</string>
+    <string name="scan">Start Scan</string>
+    <string name="toast_disconnect">Device disconnected from HRT monitor</string>
+    <string name="snackbar_paired">You are now paired to
+        the heart rate service, %1s. Read result above.</string>
+    <string name="hrt">Heart Rate</string>
+    <string name="chart">Chart</string>
+    <string name="notice_title">Heart Rate</string>
+    <string name="notice_text">Chart from heart rate service is ready!</string>
+    <string name="channel_name">Line Chart</string>
+    <string name="channel_description">Heart rate chart availability, starts a new activity</string>
+</resources>
